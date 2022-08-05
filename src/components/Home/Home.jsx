@@ -1,18 +1,12 @@
 import React from 'react'
+import Profile from '../Profile/Profile'
 
 import './styles.css'
 
 const Home = () => {
   return (
-    <div className="home">
-      <div className="home-title">
-        <div className="home-title1">
-          <h1>SOFTWARE</h1>
-        </div>
-        <div className="home-title2">
-          <h1>ENGINEER</h1>
-        </div>
-      </div>
+    <div>
+      <Profile />
     </div>
   )
 }

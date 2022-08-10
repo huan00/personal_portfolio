@@ -1,0 +1,39 @@
+{
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Node.js",
+    "MongoDB",
+    "C++",
+    "PostgreSQL",
+    "React.js",
+    "VUE.js",
+    "Express",
+    "Django",
+    "Python",
+    "React Native"
+  ],
+  "projects": [
+    {
+      "title": "ecommerce",
+      "languages": ["PERN", "CSS"],
+      "link": "https://hzecommerce.netlify.app/"
+    },
+    {
+      "title": "center-mood tracking",
+      "languages": ["PERN"],
+      "link": "https://center-mood-tracker.herokuapp.com/"
+    },
+    {
+      "title": "task manager",
+      "languages": ["react.js", "CSS", "HTML"],
+      "link": "https://taskmanager00.netlify.app/"
+    },
+    {
+      "title": "weather app",
+      "languages": ["react.js", "CSS", "HTML", "WeatherAPI"],
+      "link": "https://main.dec8narsebvtj.amplifyapp.com/"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+.contact {
+  width: 100%;
+  height: 400px;
+  margin: 50px 0 0 0;
+  color: black;
+  background-color: #DEE0D3;
+}
+
+
+.contact-bar {
+  display: flex;
+  flex-direction: row;
+}
+
+.send-message {
+  margin: 0 0 0 100px;
+  cursor: copy;
+}
+
+.message-text {
+  cursor: url(../../assets/images/copy_icon.svg) auto;
+}
+
+.contact-bar p {
+  
+}
+
+.contact-email {
+  font-size: 72px;
+  /* padding: 10px 0 50px 0; */
+  margin: 50px;
+}
+
+@media screen and (max-width: 480px){
+  .contact {
+    height: 150px;
+  }
+  .contact-bar{
+    font-size: .8rem;
+  }
+  .contact-email {
+    padding: 50px 0 0 0;
+    font-size: 1.5rem
+  }
+}

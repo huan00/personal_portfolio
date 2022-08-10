@@ -17,8 +17,8 @@ const Home = () => {
   return (
     <div className="home">
       <div className="home-content">
-        <Profile titleColor={titleColor} />
         <Skill handleTitleColor={handleTitleColor} />
+        <Profile titleColor={titleColor} />
         <WorkStatus />
         <Project />
       </div>

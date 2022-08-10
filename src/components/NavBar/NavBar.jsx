@@ -18,7 +18,7 @@ const NavBar = () => {
         <a href="https://www.linkedin.com/in/huan-zeng">
           <h6>Linkedin</h6>
         </a>
-        <a href="/https://github.com/huan00/">
+        <a href="https://github.com/huan00/">
           <h6>Github</h6>
         </a>
         <h6 className="timezone">New York, EST</h6>

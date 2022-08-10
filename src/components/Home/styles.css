@@ -7,3 +7,10 @@
   overflow-x: hidden;
   /* margin: 0 50px */
 }
+
+@media screen and (max-width: 480px){
+  .home-content {
+    overflow-x: hidden;
+    padding: 0;
+  }
+}

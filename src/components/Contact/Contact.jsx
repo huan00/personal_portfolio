@@ -8,7 +8,7 @@ const Contact = () => {
     <div className="contact">
       <div className="contact-bar">
         <p>AVAILABLE FOR WORK</p>
-        <CopyToClipboard text="SEND A MESSAGE" className="send-message">
+        <CopyToClipboard text="Hello@Huan-Zeng.com" className="send-message">
           <p className="message-text"> SEND A MESSAGE</p>
         </CopyToClipboard>
       </div>

@@ -17,12 +17,12 @@
   "projects": [
     {
       "title": "ecommerce",
-      "languages": ["PERN", "CSS"],
+      "languages": ["PERN", "CSS", "CRUD", "JWT AUTH"],
       "link": "https://hzecommerce.netlify.app/"
     },
     {
       "title": "center-mood tracking",
-      "languages": ["PERN"],
+      "languages": ["PERN", "CRUD, JWT AUTH"],
       "link": "https://center-mood-tracker.herokuapp.com/"
     },
     {
